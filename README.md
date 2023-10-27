@@ -3,7 +3,8 @@
 # HR Analytics Dashboard in Power BI
 
 
-![image](https://github.com/amitrajput921998/PowerBi-Project-HR-Analytics-Dashboard/assets/49475880/f904af82-652a-4e2d-9086-dcafd8fec0c7)
+
+![hranalytic](https://github.com/amitrajput921998/PowerBi-Project-HR-Analytics-Dashboard/assets/49475880/71abc2d6-c086-4af1-bd55-f6f4f0c818b7)
 
 
 
